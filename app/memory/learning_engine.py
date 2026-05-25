@@ -9,3 +9,5 @@ class LearningEngine:
         }
 
         return successful_pattern
+    
+    
